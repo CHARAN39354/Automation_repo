@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-20T23:50:30 IST" name="Default suite" finished-at="2025-02-20T23:50:38 IST" duration-ms="8543">
+    <groups>
+    </groups>
+    <test started-at="2025-02-20T23:50:30 IST" name="Default test" finished-at="2025-02-20T23:50:38 IST" duration-ms="8543">
+      <class name="giftCards.TC_004_Test">
+        <test-method is-config="true" signature="configReport()[pri:0, instance:giftCards.TC_004_Test@3c9754d8]" started-at="2025-02-20T23:50:29 IST" name="configReport" finished-at="2025-02-20T23:50:30 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configReport -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:giftCards.TC_004_Test@3c9754d8]" started-at="2025-02-20T23:50:30 IST" name="openBrowser" finished-at="2025-02-20T23:50:36 IST" duration-ms="6560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:giftCards.TC_004_Test@3c9754d8]" started-at="2025-02-20T23:50:36 IST" name="login" finished-at="2025-02-20T23:50:37 IST" duration-ms="784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnGiftCards()[pri:0, instance:giftCards.TC_004_Test@3c9754d8]" started-at="2025-02-20T23:50:37 IST" name="clickOnGiftCards" finished-at="2025-02-20T23:50:38 IST" duration-ms="881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnGiftCards -->
+        <test-method is-config="true" signature="closeBrower()[pri:0, instance:giftCards.TC_004_Test@3c9754d8]" started-at="2025-02-20T23:50:38 IST" name="closeBrower" finished-at="2025-02-20T23:50:38 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:giftCards.TC_004_Test@3c9754d8]" started-at="2025-02-20T23:50:38 IST" name="closeBrowser" finished-at="2025-02-20T23:50:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="reportBackup()[pri:0, instance:giftCards.TC_004_Test@3c9754d8]" started-at="2025-02-20T23:50:38 IST" name="reportBackup" finished-at="2025-02-20T23:50:39 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportBackup -->
+      </class> <!-- giftCards.TC_004_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
